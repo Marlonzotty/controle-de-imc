@@ -1,0 +1,1 @@
+primeiro projeto de uma sessão de 10 projetos basicos em JS
